@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'me.hd.hookgg'
+    namespace 'GG.LOG'
     compileSdk 34
 
     defaultConfig {
-        applicationId "me.hd.hookgg"
+        applicationId "GG,LOG"
         minSdk 27
         targetSdk 34
         versionCode 20250202
